@@ -13,7 +13,7 @@ ___
 **Extra Info**: Your Code May Not Be The Same As The Solution Given
 ___
 
-**Hints (Add Hints Here)**:
+**Hints**:
 <br>
 
 <details>
